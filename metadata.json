@@ -1,0 +1,6 @@
+{
+  "name": "Lost Paca",
+  "description": "Plataforma completa para ajudar a localizar e reportar pacas perdidas utilizando design Glass Morphism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
